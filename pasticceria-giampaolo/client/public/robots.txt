@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pasticceria-giampaolo.manus.space/sitemap.xml
